@@ -3,45 +3,31 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
+using LaptopDiscount;
 
 namespace LaptopDiscount
 {
-    public enum EmployeeType
+    internal class Program
     {
-        PartTime,       // No Discount
-        PartialLoad,    // 5% Discount
-        FullTime,       // 10% Discount
-        CompanyPurchasing // 20% Discount
-    }
-
-    public class EmployeeDiscount
-    {
-        public EmployeeType EmployeeType { get; set; }
-        public decimal Price { get; set; }
-        public object Assert { get; set; }
-
-        public decimal CalculateDiscountedPrice()
+        static void Main(string[] args)
         {
-            decimal discount = 0;
+            //creating the class variable
+            EmployeeDiscount Discount = new EmployeeDiscount();
 
-            switch (EmployeeType)
-            {
-                case EmployeeType.PartTime:
-                    discount = 0; // No discount
-                    break;
-                case EmployeeType.PartialLoad:
-                    discount = 0.05m; // 5% discount
-                    break;
-                case EmployeeType.FullTime:
-                    discount = 0.10m; // 10% discount
-                    break;
-                case EmployeeType.CompanyPurchasing:
-                    discount = 0.20m; // 20% discount
-                    break;
-            }
+            //Taking user input 
+            Console.WriteLine("Please enter your employee type");
+            Console.WriteLine("1. PartTime \n 2. PartialLoad \n 3. FullTime \n 4. CompanyPurchasing");
+            var emptype = Console.ReadLine();
+            Console.WriteLine("Please enter the price");
+            var price = Convert.ToDecimal(Console.ReadLine());
 
-            return Price - (Price * discount);
+            //calculating the discounted price
+            Discount.EmployeeType = (EmployeeType)Enum.Parse(typeof(EmployeeType), emptype);
+            Discount.Price = price;
+            var discountedprice = Discount.CalculateDiscountedPrice();
+
+            //Output
+            Console.WriteLine($"The discounted price is {discountedprice}");
         }
     }
-
 }

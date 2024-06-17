@@ -1,0 +1,15 @@
+C:\Users\ANN ELZA JOSE\Documents\CAD - sem2\Software Quality\Apps\LaptopDiscount\LaptopDiscount\bin\Debug\net6.0\LaptopDiscount.exe
+C:\Users\ANN ELZA JOSE\Documents\CAD - sem2\Software Quality\Apps\LaptopDiscount\LaptopDiscount\bin\Debug\net6.0\LaptopDiscount.deps.json
+C:\Users\ANN ELZA JOSE\Documents\CAD - sem2\Software Quality\Apps\LaptopDiscount\LaptopDiscount\bin\Debug\net6.0\LaptopDiscount.runtimeconfig.json
+C:\Users\ANN ELZA JOSE\Documents\CAD - sem2\Software Quality\Apps\LaptopDiscount\LaptopDiscount\bin\Debug\net6.0\LaptopDiscount.dll
+C:\Users\ANN ELZA JOSE\Documents\CAD - sem2\Software Quality\Apps\LaptopDiscount\LaptopDiscount\bin\Debug\net6.0\LaptopDiscount.pdb
+C:\Users\ANN ELZA JOSE\Documents\CAD - sem2\Software Quality\Apps\LaptopDiscount\LaptopDiscount\obj\Debug\net6.0\LaptopDiscount.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ANN ELZA JOSE\Documents\CAD - sem2\Software Quality\Apps\LaptopDiscount\LaptopDiscount\obj\Debug\net6.0\LaptopDiscount.AssemblyInfoInputs.cache
+C:\Users\ANN ELZA JOSE\Documents\CAD - sem2\Software Quality\Apps\LaptopDiscount\LaptopDiscount\obj\Debug\net6.0\LaptopDiscount.AssemblyInfo.cs
+C:\Users\ANN ELZA JOSE\Documents\CAD - sem2\Software Quality\Apps\LaptopDiscount\LaptopDiscount\obj\Debug\net6.0\LaptopDiscount.csproj.CoreCompileInputs.cache
+C:\Users\ANN ELZA JOSE\Documents\CAD - sem2\Software Quality\Apps\LaptopDiscount\LaptopDiscount\obj\Debug\net6.0\LaptopDiscount.sourcelink.json
+C:\Users\ANN ELZA JOSE\Documents\CAD - sem2\Software Quality\Apps\LaptopDiscount\LaptopDiscount\obj\Debug\net6.0\LaptopDiscount.dll
+C:\Users\ANN ELZA JOSE\Documents\CAD - sem2\Software Quality\Apps\LaptopDiscount\LaptopDiscount\obj\Debug\net6.0\refint\LaptopDiscount.dll
+C:\Users\ANN ELZA JOSE\Documents\CAD - sem2\Software Quality\Apps\LaptopDiscount\LaptopDiscount\obj\Debug\net6.0\LaptopDiscount.pdb
+C:\Users\ANN ELZA JOSE\Documents\CAD - sem2\Software Quality\Apps\LaptopDiscount\LaptopDiscount\obj\Debug\net6.0\LaptopDiscount.genruntimeconfig.cache
+C:\Users\ANN ELZA JOSE\Documents\CAD - sem2\Software Quality\Apps\LaptopDiscount\LaptopDiscount\obj\Debug\net6.0\ref\LaptopDiscount.dll
